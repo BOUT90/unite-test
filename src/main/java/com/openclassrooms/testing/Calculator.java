@@ -18,6 +18,7 @@ public class Calculator {
 	}
 
 	public double multiply(double a, double b) {
+		System.out.println("test");
 		return a * b;
 	}
 	public void longCalculation() {
